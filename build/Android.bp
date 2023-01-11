@@ -50,6 +50,7 @@ art_clang_tidy_allowed = [
     "performance-for-range-copy",
     "performance-noexcept-move-constructor",
     "performance-unnecessary-value-param",
+    "performance-inefficient-vector-operation",
 ]
 
 art_clang_tidy_disabled = [
